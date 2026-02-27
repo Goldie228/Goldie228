@@ -155,15 +155,6 @@ status: College student building professional web apps
 <hr>
 <br>
 
-## Trophies 🏆:
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=Goldie228&theme=onyx&no-frame=true&margin-w=15&margin-h=15">
-</p>
-
-<hr>
-<br>
-
 ## Dynamic Quotes 📜:
 <br>
 <p align='center'>
