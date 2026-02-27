@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gold&height=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=FFD700,1A1A1A&height=90"/>
 </p>
 
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
@@ -44,7 +44,7 @@ status: College student building professional web apps
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Goldie228&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1A1A1A">
+<img src="https://github-readme-stats.vercel.app/api?username=Goldie228&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700">
 </p>
 <hr>
 <br>
@@ -136,7 +136,7 @@ status: College student building professional web apps
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goldie228&theme=dark&hide_border=true&color=FFD700&line=FFD700&point=FFD700">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goldie228&theme=react-dark&hide_border=true">
 </p>
 
 <hr>
@@ -166,7 +166,7 @@ status: College student building professional web apps
 ## Trophies 🏆:
 <br>
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=Goldie228&theme=darkhub&no-frame=true&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=Goldie228&theme=onyx&no-frame=true&margin-w=15&margin-h=15">
 </p>
 
 <hr>
@@ -175,7 +175,7 @@ status: College student building professional web apps
 ## Dynamic Quotes 📜:
 <br>
 <p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&color=FFD700">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true&border_color=FFD700">
 </p>
 
 <hr>
@@ -193,7 +193,7 @@ status: College student building professional web apps
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gold&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=FFD700,1A1A1A&height=90&section=footer"/>
 </p>
 
 <!--
