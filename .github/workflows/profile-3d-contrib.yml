@@ -1,0 +1,30 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # раз в день
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Goldie228
+
+      - name: Commit & push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 3D contribution calendar"
+          file_pattern: profile-3d-contrib/*.svg
