@@ -25,7 +25,7 @@
 ## 👋 About Me
 
 ```yaml
-name: Goldie
+name: Kazhuro Gleb
 location: Belarus 🇧🇾
 current_focus: Ruby on Rails
 background: Ex-Indie Game Dev turned Web Developer
