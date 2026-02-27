@@ -41,14 +41,6 @@ status: College student building professional web apps
 
 <hr><br>
 
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Goldie228&show_icons=true&theme=github_dark&title_color=FFD700&icon_color=FFD700">
-</p>
-<hr>
-<br>
-
 ## Most Used Languages 📚
 <br>
 <p align='center'>
