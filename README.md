@@ -147,6 +147,17 @@ me = Developer.new
 <hr>
 <br>
 
+## 🚀 Projects & Code
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Repositories-Mostly%20Private-1A1A1A?style=for-the-badge&logo=github&logoColor=FFD700&borderColor=FFD700">
+</p>
+
+Most of my code is kept in private repositories. If you are a recruiter or would like to evaluate my skills, feel free to reach out to me!
+
+<hr>
+<br>
+
 ## Just a snake eating my contributions 🐍
 <p align='center'>
 <picture>
