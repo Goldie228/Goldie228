@@ -90,6 +90,7 @@ me = Developer.new
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -99,9 +100,14 @@ me = Developer.new
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sidekiq-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RSpec-%23CC342D.svg?style=for-the-badge&logo=rubygems&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hotwire-%23563D7C.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Stimulus-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -125,8 +131,19 @@ me = Developer.new
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;
+</p>
+<br>
+
+### Game Dev & Design 🎮🎨 :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cinema%204D-000000?style=for-the-badge&logo=cinema4d&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
