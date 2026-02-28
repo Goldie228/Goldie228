@@ -100,6 +100,7 @@ status: College student building professional web apps
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/clickhouse-%23FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
