@@ -24,12 +24,22 @@
 
 ## 👋 About Me
 
-```yaml
-name: Kazhuro Gleb
-location: Belarus 🇧🇾
-current_focus: Ruby on Rails
-background: Ex-Indie Game Dev turned Web Developer
-status: College student building professional web apps
+```ruby
+class Developer
+  def initialize
+    @name          = "Kazhuro Gleb"
+    @location      = "Belarus 🇧🇾"
+    @current_focus = "Ruby on Rails 💎"
+    @background    = "Ex-Indie Game Dev 🎮 turned Web Developer 🕸️"
+    @status        = "College student building professional web apps 🚀"
+  end
+
+  def current_goal
+    "Always Learning, Always Building"
+  end
+end
+
+me = Developer.new
 ```
 
 <hr>
