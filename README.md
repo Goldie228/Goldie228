@@ -99,6 +99,9 @@ me = Developer.new
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -134,6 +137,18 @@ me = Developer.new
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
+
+### Editors & IDEs ⌨️ :
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sublime_Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cursor-1A1A1A.svg?style=for-the-badge&logo=cursor&logoColor=white">&nbsp;&nbsp;
+</p>
+<br>
 
 <hr>
 <br>
